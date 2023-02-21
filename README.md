@@ -8,9 +8,3 @@ When I'm not coding, you'll find me at the bouldering gym or seeking out new sou
 <br>
 Thanks for stopping by my portfolio page - let's work together and make something awesome!
 
-
-[img](https://media.giphy.com/media/ejVTnQrMGYjvbjJDMB/giphy.gif)
-
-### Things I like to do
-- Go to the boulder gym
-- learning to code 
